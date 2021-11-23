@@ -2,7 +2,7 @@
 <!-- <img align="center"  height="100px" src="code.gif"> -->
 </div>
  
-<br>
+<!-- <br> -->
 <h3>Jagrut Chaudhari</h3>
 <h6>Self-motivated Mobile/Web Application Developer having experience working on multiple projects. Passionate and hardworking with a penchant for meeting deadlines. Interested in a role with a company promoting best practices and offering diverse customer projects.</h6>
 
@@ -12,7 +12,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagrut-18&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="30" width="65" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Js" height="30" width="60" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -21,7 +21,7 @@
  <img align="center" alt="Dart" height="30" width="60" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
  <img align="center" alt="Dart" height="30" width="70" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   
-</div>
+</div> -->
   
   ##
   
