@@ -8,10 +8,10 @@
 
  <div>
   <a href="https://github.com/jagrut-18">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jagrut-18&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagrut-18&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jagrut-18&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagrut-18&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-  
+ <div>
 <!-- <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" height="30" width="65" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
